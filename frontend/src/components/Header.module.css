@@ -1,0 +1,12 @@
+.header {
+	background: var(--primary-gradient);
+	color: var(--neutral-color);
+	padding: 1rem;
+  }
+  
+  .logo {
+	color: var(--accent-color);
+	font-size: 1.5rem;
+	font-weight: bold;
+  }
+  
